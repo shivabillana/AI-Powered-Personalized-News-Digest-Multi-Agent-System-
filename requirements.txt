@@ -1,0 +1,6 @@
+langchain
+langchain-openrouter
+streamlit
+python-dotenv
+newsapi-python
+requests
