@@ -1,0 +1,38 @@
+[
+  {
+    "topic": "Artificial Intelligence",
+    "keywords": [
+      "LLM",
+      "OpenAI"
+    ],
+    "digest": "## Artificial Intelligence\n\nFinance executives are cautioning UK banks about potential risks of deploying Anthropic\u2019s powerful AI tool Mythos, while Nvidia\u2019s CEO claims the industry has reached artificial general intelligence. At the same time, public sentiment grows increasingly skeptical of AI, with critics highlighting cultural and ethical concerns.\n\n**Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool** \u2014 Finance leaders caution UK banks about risks associated with Anthropic\u2019s AI tool Mythos. (Source: Google News)  \n**Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019** \u2014 Nvidia\u2019s CEO asserts that artificial general intelligence has been achieved, sparking debate in the tech community. (Source: The Verge)  \n**Why people really hate AI** \u2014 The article explores the rising cultural backlash against AI, examining why many people are increasingly distrustful of the technology. (Source: The Verge)",
+    "score": 8.0
+  },
+  {
+    "topic": "Space Exploration",
+    "keywords": [
+      "NASA",
+      "SpaceX"
+    ],
+    "digest": "## Space Exploration\n\nNASA's Artemis II mission is nearing its return to Earth, highlighting both the historic crew lineup and the program's reliance on continued funding, while agency leadership expresses optimism about the prospects of discovering extraterrestrial life.\n\n**How and When to Watch the Artemis II Mission\u2019s Return to Earth** \u2014 NASA will livestream the crew's splashdown scheduled for Friday evening. (Source: Wired)  \n**NASA Administrator Says Odds of Finding Alien Life Are \u2018Pretty High\u2019** \u2014 NASA officials say the search for extraterrestrial life is a central focus of current missions. (Source: Gizmodo.com)  \n**These Are the 4 Artemis II Astronauts Leading the Historic Return to the Moon** \u2014 The crew includes the first woman, the first Black astronaut, and the first non\u2011American to travel to the lunar environment. (Source: Wired)  \n**Artemis 2 is a benchmark in our space exploration program \u2014 and it depends on steady NASA funding** \u2014 The mission is seen as a critical milestone that requires sustained financial support. (Source: Google News)  \n**Landing astronauts on the moon 'is absolutely doable, and it's doable soon,' NASA's Artemis 2 commander says** \u2014 The commander asserts that a near\u2011term lunar landing is feasible. (Source: Google News)",
+    "score": 8.0
+  },
+  {
+    "topic": "Stock Market",
+    "keywords": [
+      "Tesla",
+      "earnings"
+    ],
+    "digest": "## Stock Market\n\nAnalyst Gordon Johnson argues that Tesla represents the most significant short opportunity ever, warning of a potential price collapse to $25 per share due to lofty valuation, slowing sales, and options market dynamics.\n\n**A market analyst shares why he thinks Tesla is the 'single greatest stock short' in market history** \u2014 Gordon Johnson predicts Tesla's stock could tumble to $25, citing its high valuation, weakening sales, and shifts in options trading. (Source: Business Insider)",
+    "score": 7.0
+  },
+  {
+    "topic": "Cybersecurity",
+    "keywords": [
+      "data breach",
+      "hacking"
+    ],
+    "digest": "## Cybersecurity\n\nRecent discussions highlight Anthropic\u2019s new AI model, dubbed Mythos or Project Glasswing, as a pivotal development that could reshape security practices. While some view it as a potential tool for attackers, experts emphasize it as a catalyst for developers to prioritize robust security measures.\n\n**Anthropic\u2019s Mythos Will Force a Cybersecurity Reckoning\u2014Just Not the One You Think** \u2014 The model is seen as a hacker\u2019s superweapon, prompting a wake\u2011up call for developers who have long neglected security. (Source: Wired)  \n**Anthropic is launching a new AI model for cybersecurity** \u2014 Anthropic unveils Project Glasswing, an AI model partnered with Nvidia, Google, AWS, Apple, Microsoft, and others to enhance cybersecurity for large enterprises. (Source: The Verge)",
+    "score": 7.0
+  }
+]
